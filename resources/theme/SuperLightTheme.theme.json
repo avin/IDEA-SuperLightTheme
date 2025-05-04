@@ -1,0 +1,32 @@
+{
+  "name": "SuperLight",
+  "dark": false,
+  "author": "Avin Lambrero",
+  "parentTheme": "ExperimentalLightWithLightHeader",
+  "colors": {
+    "Gray1": "#000000",
+    "Gray2": "#070707",
+    "Gray3": "#1d1d1d",
+    "Gray4": "#333333",
+    "Gray5": "#494949",
+    "Gray6": "#5f5f5f",
+    "Gray7": "#757575",
+    "Gray8": "#8b8b8b",
+    "Gray9": "#a1a1a1",
+    "Gray10": "#b7b7b7",
+    "Gray11": "#cecece",
+    "Gray12": "#e4e4e4",
+    "Gray13": "#fafafa",
+    "Gray14": "#ffffff",
+
+    "MyBorder": "Gray11"
+  },
+  "ui": {
+    "*": {
+      "borderColor": "MyBorder"
+    },
+    "Borders.color": "MyBorder"
+
+
+  }
+}
