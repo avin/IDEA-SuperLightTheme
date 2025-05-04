@@ -19,6 +19,20 @@
     "Gray13": "#fafafa",
     "Gray14": "#ffffff",
 
+    "Blue1":  "#004680",
+    "Blue2":  "#14568d",
+    "Blue3":  "#296699",
+    "Blue4":  "#3d77a6",
+    "Blue5":  "#5287b3",
+    "Blue6":  "#6697c0",
+    "Blue7":  "#7aa7cc",
+    "Blue8":  "#8fb7d9",
+    "Blue9":  "#a3c8e6",
+    "Blue10": "#b8d8f2",
+    "Blue11": "#cce8ff",
+    "Blue12": "#e5f4ff",
+    "Blue13": "#f0f8ff",
+
     "MyBorder": "Gray11"
   },
   "ui": {
